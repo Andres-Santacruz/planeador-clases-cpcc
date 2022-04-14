@@ -1,0 +1,80 @@
+[
+  {
+    "desempeño": {
+      "verbo": [
+        "Identifica que es ",
+        "Reconoce que es ",
+        "Recuerda que es ",
+        "Describe que es ",
+        "Define que es ",
+        "Explica que es "
+      ],
+      "para": [" y", " para ", " y "],
+      "final": [
+        "sus principales características",
+        "aplicarlo en su vida cotidiana",
+        "su importancia en la vida cotidiana"
+      ]
+    },
+    "indicador": {
+      "verbo": [
+        "Identificar que es ",
+        "Reconocer que es ",
+        "Recordar que es ",
+        "Describir que es ",
+        "Definir que es ",
+        "Explicar que es "
+      ]
+    },
+    "competencia": {
+      "verbo": [
+        "Identifico que es ",
+        "Reconozco que es ",
+        "Recuerdo que es ",
+        "Describo que es ",
+        "Defino que es ",
+        "Explico que es "
+      ],
+      "complemento": [
+        "Identifico y expreso, con mis propias palabras, las ideas y los deseos de quienes participamos en la toma de decisiones, en el salón y en el medio escolar.",
+        "Identifico las situaciones cercanas a mi entorno (en mi casa, mi barrio, mi colegio) que tienen diferentes modos de resolverse.",
+        "Escucho activamente a mis compañeros y compañeras y reconozco puntos de vista diferentes.",
+        "Valoro y utilizo el conocimiento de diversas personas de mi entorno.",
+        "Respeto y cuido los seres vivos y los objetos de mi entorno."
+      ]
+    },
+    "metodologia": {
+      "motivacion": {
+        "inicio": {
+          "juego": "Se realizará un juego didáctico ",
+          "repaso": "Se realizará un repaso de los temas vistos la anterior clase",
+          "mesa": "Se realizará una mesa redonda sobre el tema que se dara en la clase",
+          "tallerExamen": "Se explicara como trabajar el "
+        },
+        "fin": " con el fin de motivar a los estudiantes."
+      },
+      "desarrollo": {
+        "pelicula": "Se cuidará a los estudiantes mientras ven la película",
+        "lab": "Se explicará la guia que deben seguir los estudiantes para realizar el laboratorio y se realizará seguimiento en el desarrollo del laboratorio",
+        "teoria": {
+          "inicio": [
+            "Se explicará que es ",
+            "Se hará una clase teoria explicando que es ",
+            "Con material audiovisual se explicará que es ",
+            "se explicará por medio de material visual que es "
+          ],
+          "fin": "y su importancia en la vida cotidiana, dando ejemplos"
+        },
+        "taller": "Se realizará seguimiento a los estudiantes mientras realizan el taller",
+        "examen": "Se realizará seguimiento a los estudiantes mientras realizan el examen"
+      },
+      "finalizacion": {
+        "pelicula": "Se hará una pequeña reflexión sobre la película",
+        "lab": "Se recibiran los resultados del laboratorio y se hará una reflexión sobre la práctica",
+        "teoria": "Se realizarán ejercicios y conlusiones sobre el tema visto en clase",
+        "taller": "Se recibirán los talleres realizados por los estudiantes",
+        "examen": "Se recibirán los examenes realizados por los estudiantes"
+      }
+    }
+  }
+]
